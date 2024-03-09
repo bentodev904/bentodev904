@@ -1,5 +1,4 @@
-<h1 style="center"> Hello, I am Bento ☺️👋 </h1>
-# Hello, I am Bento 😊⭐
+<h1 align="center"> Hello, I am Bento ☺️👋 </h1>
 ###### Olá, eu sou o Bento 😊⭐
 ![gitartwork](gitartwork.svg)
 
