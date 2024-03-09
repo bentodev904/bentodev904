@@ -19,9 +19,7 @@
 
 <div align="center">
 <h1> 🤓 Contributions 🤓</h1>
-<br>
-
-
+<img src="https://raw.githubusercontent.com/bentodev904/bentodev904/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <h1 align="center"> 🔌 My git stats 🔌 </h1>
