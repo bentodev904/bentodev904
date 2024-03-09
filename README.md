@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I am Bento ☺️👋 </h1>
-###### Olá, eu sou o Bento 😊⭐
+
 ![gitartwork](gitartwork.svg)
 
 [![Gmail Badge](https://img.shields.io/badge/-bentoagostini5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bentoagostini5@gmail.com)](mailto:bentoagostini5@gmail.com)   
