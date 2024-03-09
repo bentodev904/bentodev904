@@ -2,7 +2,10 @@
 
 ![gitartwork](gitartwork.svg)
 
-[![Gmail Badge](https://img.shields.io/badge/-bentoagostini5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bentoagostini5@gmail.com)](mailto:bentoagostini5@gmail.com)   
+[![Gmail Badge](https://img.shields.io/badge/-bentoagostini5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bentoagostini5@gmail.com)](mailto:bentoagostini5@gmail.com)
+
+<h2 align="center"> 👀 More about me 👀 </h2>
+<p align="center"> Currently studying in IFMS, looking forward for being a web-developer </p>
 
 ![BentoBento Git Stats](https://github-readme-stats.vercel.app/api?username=bentodev904&show_icons=true&theme=transparent)
 
