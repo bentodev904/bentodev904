@@ -4,7 +4,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-bentoagostini5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bentoagostini5@gmail.com)](mailto:bentoagostini5@gmail.com)
 
-<h2 align="center"> 👀 More about me 👀 </h2>
+<h2 align="center"> 👀 A little about me 👀 </h2>
 <p align="center"> Currently doing high school in IFMS, in the integrated course in internet computing, looking forward for being a web-developer.</p>
 
 <h1 align="center"> 🔌 My git stats 🔌 </h1>
