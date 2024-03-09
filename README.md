@@ -1,6 +1,8 @@
-
 # Hello, I am Bento 😊⭐
-##### Olá, eu sou o Bento 😊⭐
+###### Olá, eu sou o Bento 😊⭐
+![gitartwork](gitartwork.svg)
+
+[![Gmail Badge](https://img.shields.io/badge/-bentoagostini5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bentoagostini5@gmail.com)](mailto:bentoagostini5@gmail.com)   
 
 ![BentoBento Git Stats](https://github-readme-stats.vercel.app/api?username=bentodev904&show_icons=true&theme=transparent)
 
@@ -15,9 +17,6 @@
 
 ![BentoBento Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bentodev904&layout=compact)
 
-[![BentoBento Times](https://github-readme-stats.vercel.app/api/wakatime?username=@bentodev904&layout=compact)](https://github.com/bentodev904/github-readme-stats)
-
-
 ## Tech + Tools
 ##### Tecnologias + Ferramentas
 
@@ -30,9 +29,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Social
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bentocringe_/)
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bentocringe/)
 ![Disc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 ![Epic](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
