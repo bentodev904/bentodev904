@@ -53,7 +53,7 @@
 
 <h1 align="center"> ✨️ Working Now ✨️ </h1>
 
-<p align="center"> Focusing on school, studying responsiviness and HTML structured web-sites. </p>
+<p align="center"> Focusing on school, studying responsiviness and HTML structured web-sites. Contact: bentoagostini5@gmail.com </p>
 
 <h2 align="center"> 📸 My socials 📸 </h2>
 
