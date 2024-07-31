@@ -15,7 +15,7 @@
 </div>
   
 <h2 align="center"> 👀 A little about me 👀 </h2>
-<p align="center"> Currently doing high school in IFMS, in the integrated course in internet computing, looking forward for being a former developer.</p>
+<p align="center"> Currently doing high school in IFMS - Brazil, in the integrated course in internet computing, looking forward for being a former developer.</p>
 
 <div align="center">
 <h1> 🤓 Contributions 🤓</h1>
