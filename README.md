@@ -53,8 +53,7 @@
 
 <h1 align="center"> ✨️ Working Now ✨️ </h1>
 
-<p align="center"> I am a member of my campus robotics team, focusing in the programming part, and aiming for a big win in my country's national competition.
-Learning C++ and C# for Arduino programming, and in-depth Python/Micropython. </p>
+<p align="center"> Focusing on school, studying responsiviness and HTML structured web-sites. </p>
 
 <h2 align="center"> 📸 My socials 📸 </h2>
 
