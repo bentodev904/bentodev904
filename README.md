@@ -25,17 +25,9 @@
 <h1 align="center"> 🔌 My git stats 🔌 </h1>
 
 <div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bentodev904&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bentodev904&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=bentodev904&show_icons=true" />
-</picture>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 </div>
 
 <h1 align="center"> 💻 Main Languages 💻 </h1>
