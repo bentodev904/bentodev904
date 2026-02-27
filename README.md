@@ -24,7 +24,8 @@
 
 <h1 align="center"> 🔌 My git stats 🔌 </h1>
 <div align = "center"> 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bentodev904&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api?username=bentodev904&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=default_repocard)
+  <img scr = "https://github-stats-extended.vercel.app/api?username=bentodev904&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=default_repocard" />
+[![GitHub Stats]()](https://github-stats-extended.vercel.app/api?username=bentodev904&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=default_repocard)
 </div>
 <h1 align="center"> 💻 Main Languages 💻 </h1>
 <div align="center">
