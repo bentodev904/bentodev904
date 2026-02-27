@@ -25,7 +25,7 @@
 <h1 align="center"> 🔌 My git stats 🔌 </h1>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bentodev904&show_icons=true&theme=transparent" target="_blank"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bentodev904" target="_blank"/> https://github.com/anuraghazra/github-readme-stats
 </div>
 
 <h1 align="center"> 💻 Main Languages 💻 </h1>
