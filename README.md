@@ -24,7 +24,7 @@
 
 <h1 align="center"> 🔌 My git stats 🔌 </h1>
 
-![Stats](./profile/stats.svg)
+![Stats](./bentodev904/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
