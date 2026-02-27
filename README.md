@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentodev904&layout=compact" target="_blank"/>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=bentodev904&langs_count=4"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bentodev904&langs_count=4"></a>
 </div>
 
 <h1 align="center"> ⌨️ Tools + Technologies ⌨️ </h1>
