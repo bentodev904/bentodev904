@@ -15,7 +15,7 @@
 </div>
   
 <h2 align="center"> 👀 A little about me 👀 </h2>
-<p align="center"> Undergraduate degree in Information Systems at UFGD, former technician in web-informatics, looking forward for working as a developer.</p>
+<p align="center"> Undergraduate degree in Computer Engineering at UFGD, former technician in web-informatics, looking forward for working as a hardware developer.</p>
 
 <div align="center">
 <h1> 🤓 Contributions 🤓</h1>
