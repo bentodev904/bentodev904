@@ -52,7 +52,7 @@
 
 <h1 align="center"> ✨️ Working Now ✨️ </h1>
 
-<p align="center"> Retro handhelds mod. Cybersecurity. College. Contact: bentoagostini5@gmail.com </p>
+<p align="center"> Retro handhelds mod. Cybersecurity. University. Contact: bentoagostini5@gmail.com </p>
 
 <h2 align="center"> 📸 My socials 📸 </h2>
 
