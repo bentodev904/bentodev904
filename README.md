@@ -15,7 +15,7 @@
 </div>
   
 <h2 align="center"> 👀 A little about me 👀 </h2>
-<p align="center"> Undergraduate degree in Computer Engineering at UFGD, former technician in web-informatics, looking forward for working as a hardware developer.</p>
+<p align="center"> Computer Engineering undergraduate at UFGD and IT Technician graduated from IFMS. Interested in embedded systems, Linux, computer networks, backend development and hardware.</p>
 
 <div align="center">
 <h1> 🤓 Contributions 🤓</h1>
